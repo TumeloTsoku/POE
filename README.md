@@ -4,7 +4,7 @@ This is a recipe application that allows users to manage recipes, ingredients, a
 # Instructions
 To compile and run the software, follow these steps:
 
-Clone the repository to your local machine: git clone https://github.com/your-username/recipe-app.git
+Clone the repository to your local machine: git clone https://github.com/TumeloTsoku/POE.git
 Open the solution file (RecipeApp.sln) in Visual Studio.
 Build the solution by selecting "Build" > "Build Solution" from the menu.
 Run the application by pressing F5 or selecting "Debug" > "Start Debugging" from the menu.
